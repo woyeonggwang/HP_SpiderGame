@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fab7ce315b23bb48a1094d06b828a98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _target: {instanceID: 0}
+  - _spider: {fileID: 756209416395014820, guid: 34e47fdaa83ceca4d8202fb7b37cc294,
+      type: 3}
+  - _butterFly: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
